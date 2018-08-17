@@ -1,5 +1,4 @@
-# test1
-test 1
-test 2
-test 3
-test 5
+### YamlMime:Sample
+sample:
+- name: Using Azure APIs
+  description: A sample that shows how to use Azure APIs.

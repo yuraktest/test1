@@ -1,1 +1,17 @@
-master 
+{ 
+  "menu": "File", 
+  "commands": [ 
+      {
+          "title": "New", 
+          "action":"CreateDoc"
+      }, 
+      {
+          "title": "Open", 
+          "action": "OpenDoc"
+      }, 
+      {
+          "title": "Close",
+          "action": "CloseDoc"
+      }
+   ] 
+}

@@ -20,6 +20,3 @@ sample:
   - windows
   - xbox
   vssolution: /repo/test/solution.sln
-  statusNotificationTargets:
-  - somelist@domain.com
-  - other.user@domain.com

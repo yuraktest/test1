@@ -24,6 +24,3 @@ sample:
   - somelist@domain.com
   - other.user@domain.com
   extensions:
-  - someExtensionEntry:
-    - altEntry
-    - altContent

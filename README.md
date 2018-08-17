@@ -11,7 +11,7 @@
       }, 
       {
           "title": "Close",
-          "action": "CloseDoc"
+          "action": "CloseDoc1"
       }
    ] 
 }

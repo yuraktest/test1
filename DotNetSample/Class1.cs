@@ -1,8 +1,6 @@
 using System;
 
-namespace DotNetSample
-{
-    public class Class1
+class Class1
     {
     }
 }

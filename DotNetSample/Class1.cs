@@ -1,9 +1,11 @@
-usig System;
-
-namespace DotNetSample
-
-    publicc class Class1
-    {
+using System;
+ 
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
-

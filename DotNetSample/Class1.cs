@@ -1,8 +1,8 @@
 using System;
 
-namespace DotNetSample
+namespce DotNetSample
 {
     public class Class1
     {
-    }
-}
+    
+

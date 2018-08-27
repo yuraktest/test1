@@ -1,7 +1,9 @@
-using System;
+usig System;
 
 namespace DotNetSample
-{
-    pub
+
+    publicc class Class1
+    {
     }
 }
+

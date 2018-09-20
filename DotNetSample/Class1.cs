@@ -2,8 +2,7 @@ using System;
 
 namespace DotNetSample
 {
-    public class ClassName
+    public class Class1
     {
     }
 }
-

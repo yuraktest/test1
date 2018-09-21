@@ -9,5 +9,5 @@ sample:
   technologies:
   - advanced-threat-analytics
   ci_config:
-  - path: /DotNetSample
+  - path: /
     template: dot_net_core

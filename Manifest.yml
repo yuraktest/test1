@@ -8,7 +8,7 @@ sample:
   - csharp
   technologies:
   - advanced-threat-analytics
-   statusNotificationTargets:
+  statusNotificationTargets:
   - yura.klyshevich1@gmail.com
   ci_config:
   - path: /

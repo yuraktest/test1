@@ -10,7 +10,7 @@ sample:
   - advanced-threat-analytics
   statusNotificationTargets:
   - yura.klyshevich1@gmail.com
-  - test-jcn@,ddjd..com
+  - t.......................
   ci_config:
   - path: /
     template: dot_net_core

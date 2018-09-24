@@ -8,6 +8,8 @@ sample:
   - csharp
   technologies:
   - advanced-threat-analytics
+   statusNotificationTargets:
+  - yura.klyshevich1@gmail.com
   ci_config:
   - path: /
     template: dot_net_core

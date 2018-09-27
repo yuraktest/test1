@@ -10,10 +10,6 @@ sample:
   - advanced-threat-analytics
   statusNotificationTargets:
   - yura.klyshevich1@gmail.com
-  - .....@....com
-  - js@contoso.ä¸¬å›½ 
-  - "j\"s\""@proseware.com
-  - j.s@server1.proseware.com
   ci_config:
   - path: /
     template: dot_net_core

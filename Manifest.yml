@@ -11,5 +11,5 @@ sample:
   statusNotificationTargets:
   - yura.klyshevich1@gmail.com
   ci_config:
-  - path: \
+  - path: /DotNetSample
     template: dot_net_core

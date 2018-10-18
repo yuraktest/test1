@@ -1,7 +1,7 @@
 ### YamlMime:Sample
 sample:
 - name: .NET Core Sample5
-  description: A sample that shows how to use .NET Core
+  description: The sample that shows how to use .NET Core
   generateZip: true
   author: ant
   languages:

@@ -2,5 +2,7 @@ using System;
 
 namespace DotNetSample
 {
-    pulic
-    
+    public class Class1
+    {
+    }
+}

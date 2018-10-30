@@ -10,6 +10,3 @@ sample:
   - advanced-threat-analytics
   statusNotificationTargets:
   - yura.klyshevich1@gmail.com
-  ci_config:
-  - path: /DotNetSample
-    template: dot_net_core

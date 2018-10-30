@@ -4,5 +4,4 @@ namespace DotNetSample
 {
     public class Class1
     {
-    }
-}
+    

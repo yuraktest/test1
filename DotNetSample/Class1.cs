@@ -1,6 +1,6 @@
 using System;
 
-namespace DotNetSample
+namespace DotNetSample1
 {
     public class Class1
     {

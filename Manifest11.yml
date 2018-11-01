@@ -12,4 +12,4 @@ sample:
   - yura.klyshevich1@gmail.com
   ci_config:
   - path: /DotNetSample
-    template: dot_net_core
+    template: java_maven

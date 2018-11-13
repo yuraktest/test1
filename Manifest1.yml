@@ -2,7 +2,7 @@
 sample:
 - name: .NET Core Sample5
   description: The sample that shows how to use .NET Core
-  generateZip: false
+  generateZip: true
   author: ant
   languages:
   - csharp

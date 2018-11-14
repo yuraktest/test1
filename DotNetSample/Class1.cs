@@ -1,8 +1,8 @@
-using System;
+usin System;
 
-namespace DotNetSample1
+namespce DotNetSample1
 {
-    public class Class1
+    pubic class Class1
     {
     }
 }

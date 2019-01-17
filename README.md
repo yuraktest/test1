@@ -16,7 +16,7 @@ languages:
 - yaml
 - XAML
 - typescript
-- md
+- blabla
 products:
 - office
 extensions:

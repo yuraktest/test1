@@ -4,7 +4,7 @@ name: 'An Sample'
 description: The Sample that shows how to use .NET Core
 statusNotificationTargets:
 - yura.klyshevich1@gmail.com
-urlFragment: TestConstructorsNew1
+urlFragment: TestConslogs
 authors:
 - displayName: Ivan Ivanov
   id: test2
@@ -16,7 +16,6 @@ languages:
 - yaml
 - XAML
 - typescript
-- blabla
 products:
 - office
 extensions:

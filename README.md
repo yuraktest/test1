@@ -4,7 +4,7 @@ name: 'An Sample'
 description: The Sample that shows how to use .NET Core
 statusNotificationTargets:
 - yura.klyshevich1@gmail.com
-urlFragment: test1
+urlFragment: test11
 authors:
 - displayName: Ivan Ivanov
   id: test2

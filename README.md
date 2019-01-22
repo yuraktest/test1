@@ -4,7 +4,7 @@ name: 'An Sample'
 description: The Sample that shows how to use .NET Core
 statusNotificationTargets:
 - yura.klyshevich1@gmail.com
-urlFragment: test11
+urlFragment: onlyTemplate
 authors:
 - displayName: Ivan Ivanov
   id: test2
@@ -21,8 +21,7 @@ products:
 extensions:
 - officeDevId: 3bb16609-f17e-4f5c-8a01-16db13c7c98c
 ci:
-- path: /DotNetSample
-  template: dot_net_core
+- template: dot_net_core
 ---
 # test new build
 Hey folks, there is an awesome sample that I want to share...

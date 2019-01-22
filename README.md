@@ -23,7 +23,7 @@ extensions:
 ci:
 - template: dot_net_core
 ---
-# test new build
+# Salution in folder
 Hey folks, there is an awesome sample that I want to share...
 
 dddddfff3

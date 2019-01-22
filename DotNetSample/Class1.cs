@@ -1,7 +1,8 @@
-usg System;
+using System;
 
-namesp
+namespace DotNetSample
+{
     public class Class1
-    
+    {
     }
 }

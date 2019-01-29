@@ -10,7 +10,7 @@ languages:
 products:
 - office
 ---
-# Salution in folder
+# 
 Hey folks, there is an awesome sample that I want to share...
 
 dddddfff3

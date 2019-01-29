@@ -2,7 +2,7 @@ using System;
 
 namespace DotNetSample
 {
-    public class Class1
+    public class Class11223445354645
     {
     }
 }

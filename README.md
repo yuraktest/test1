@@ -1,5 +1,6 @@
 ---
 topic: sample
+name: Sample111
 description: The Sample that shows how to use .NET Core
 urlFragment: DefectTest
 azureDeploy: https://azuretemplate.bing.com/deployments/deploy.json

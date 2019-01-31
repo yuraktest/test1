@@ -2,7 +2,7 @@
 topic: sample
 name: Sample111
 description: The Sample that shows how to use .NET Core
-urlFragment: DefectTest
+urlFragment: Test1RG
 azureDeploy: https://azuretemplate.bing.com/deployments/deploy.json
 languages:
 - csharp
